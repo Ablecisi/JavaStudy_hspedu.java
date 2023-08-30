@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "docify.commentService.autoTranslationService": "Chinese",
+    "docify.commentService.docstringFormat": "JavaDoc",
+    "docify.translateService.targetLanguage": "English",
+    "docify.commentService.programmingLanguage": "auto-detect",
+    "docify.commentService.inlineComments": true,
+    "docify.commentService.sidePanelReviewMode": true
+}
