@@ -1,8 +1,8 @@
 
 package com.zcedu.test;
 
-public class Object {
-    public Object() {
+public class Object_ {
+    public Object_() {
     }
 
     public static void Va(Cat args) {

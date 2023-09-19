@@ -1,6 +1,9 @@
 <component name="InspectionProjectProfileManager">
   <profile version="1.0">
     <option name="myName" value="Project Default" />
+    <inspection_tool class="CommentedOutCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="minLines" value="26" />
+    </inspection_tool>
     <inspection_tool class="ConstantValue" enabled="false" level="WARNING" enabled_by_default="false" editorAttributes="WARNING_ATTRIBUTES">
       <option name="DONT_REPORT_TRUE_ASSERT_STATEMENTS" value="true" />
     </inspection_tool>

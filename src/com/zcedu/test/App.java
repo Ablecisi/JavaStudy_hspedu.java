@@ -1,7 +1,7 @@
 
 package com.zcedu.test;
 
-public final class App {
+public class App {
     public App() {
     }
 
